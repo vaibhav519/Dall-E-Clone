@@ -1,4 +1,4 @@
-# Dall - E Clone: An AI image generation application.
+# Dall-E Clone: An AI image generation application.
 
 •	DALL·E is an AI system that can create realistic images and art from a description in natural language. <br />
 
