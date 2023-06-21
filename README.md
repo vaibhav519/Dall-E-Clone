@@ -4,8 +4,6 @@
 
 ![](Dall-E(1).png)
 
-![](Dall-E(2).png)
-
 •	A user can edit and create variations of the existing image by making changes to the text prompt. <br />
 
 ![](Dall-E(3).png)
